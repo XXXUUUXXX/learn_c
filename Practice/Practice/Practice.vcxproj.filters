@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="stillbad.c">
+    <ClCompile Include="platinum.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

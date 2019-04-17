@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="recur.c">
+    <ClCompile Include="factor.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

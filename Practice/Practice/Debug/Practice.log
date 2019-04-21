@@ -1,6 +1,2 @@
-﻿  rain.c
-c:\users\administrator\desktop\learn_c\practice\practice\rain.c(9): warning C4305: “初始化”: 从“double”到“const float”截断
-c:\users\administrator\desktop\learn_c\practice\practice\rain.c(10): warning C4305: “初始化”: 从“double”到“const float”截断
-c:\users\administrator\desktop\learn_c\practice\practice\rain.c(11): warning C4305: “初始化”: 从“double”到“const float”截断
-c:\users\administrator\desktop\learn_c\practice\practice\rain.c(12): warning C4305: “初始化”: 从“double”到“const float”截断
+﻿  day_mon3.c
   Practice.vcxproj -> C:\Users\Administrator\Desktop\learn_c\Practice\Debug\Practice.exe

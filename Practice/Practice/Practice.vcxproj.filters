@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="order.c">
+    <ClCompile Include="ptr_ops.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

@@ -1,3 +1,2 @@
-﻿  getsputs.c
-c:\users\administrator\desktop\learn_c\practice\practice\getsputs.c(8): warning C4013: “gets”未定义；假设外部返回 int
+﻿  fgets3.c
   Practice.vcxproj -> C:\Users\Administrator\Desktop\learn_c\Practice\Debug\Practice.exe

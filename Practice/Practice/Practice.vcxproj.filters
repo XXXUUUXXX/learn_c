@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="compare.c">
+    <ClCompile Include="quit_chk.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

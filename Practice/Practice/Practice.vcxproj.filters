@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="sort_str.c">
+    <ClCompile Include="mod_str.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

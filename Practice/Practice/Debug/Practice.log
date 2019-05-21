@@ -1,2 +1,4 @@
-﻿  mod_str.c
-  Practice.vcxproj -> C:\Users\Administrator\Desktop\learn_c\Practice\Debug\Practice.exe
+﻿  repeat.c
+c:\users\administrator\desktop\learn_c\practice\practice\repeat.c(6): warning C4013: “printf”未定义；假设外部返回 int
+repeat.obj : error LNK2019: 无法解析的外部符号 _printf，该符号在函数 _main 中被引用
+C:\Users\Administrator\Desktop\learn_c\Practice\Debug\Practice.exe : fatal error LNK1120: 1 个无法解析的外部命令

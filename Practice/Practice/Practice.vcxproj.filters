@@ -15,7 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="reverse.c">
+    <ClCompile Include="append.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="randbin.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

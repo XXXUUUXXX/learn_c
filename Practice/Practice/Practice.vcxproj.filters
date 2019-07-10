@@ -15,10 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="append.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="randbin.c">
+    <ClCompile Include="friend.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
